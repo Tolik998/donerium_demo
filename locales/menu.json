@@ -1,0 +1,30 @@
+{
+  "categories": ["doners", "burgers", "sides", "drinks"],
+  "items": {
+    "doners": [
+      { "id": "d1", "name_ru": "Классический донер", "name_kz": "Классикалық донер", "desc_ru": "Говядина, свежие овощи, фирменный соус, лаваш", "desc_kz": "Сиыр еті, таза көкөністер, фирмалық соус, лаваш", "price": 1990, "tag": "bestseller", "image": "https://images.unsplash.com/photo-1633321702518-7feccafb94d5?w=600&q=80" },
+      { "id": "d2", "name_ru": "Донер с курицей", "name_kz": "Тауық донері", "desc_ru": "Куриное филе, хрустящий лаваш, овощи, соус карри", "desc_kz": "Тауық филе, қытырлақ лаваш, көкөністер, карри соусы", "price": 1790, "tag": "", "image": "https://images.unsplash.com/photo-1760888548893-bc2f7e09e972?w=600&q=80" },
+      { "id": "d3", "name_ru": "Двойной донер", "name_kz": "Қос донер", "desc_ru": "Двойная порция мяса, максимум начинки, XXL размер", "desc_kz": "Еттің қос порциясы, максималды толтыру, XXL өлшем", "price": 2690, "tag": "big", "image": "https://images.unsplash.com/photo-1773620494884-940e0db95e46?w=600&q=80" },
+      { "id": "d4", "name_ru": "Острый донер", "name_kz": "Ащы донер", "desc_ru": "Говядина, острая аджика, халапеньо, свежие овощи", "desc_kz": "Сиыр еті, ащы аджика, халапеньо, таза көкөністер", "price": 2090, "tag": "hot", "image": "https://images.unsplash.com/photo-1734772591537-15ac1b3b3c04?w=600&q=80" },
+      { "id": "d5", "name_ru": "Донер Микс", "name_kz": "Микс донер", "desc_ru": "Говядина + курица, ассорти овощей, два вида соуса", "desc_kz": "Сиыр + тауық, көкөніс ассортиі, екі түрлі соус", "price": 2490, "tag": "new", "image": "https://images.unsplash.com/photo-1762284513096-e411d20c1a4d?w=600&q=80" }
+    ],
+    "burgers": [
+      { "id": "b1", "name_ru": "DONERIUM Бургер", "name_kz": "DONERIUM Бургері", "desc_ru": "Двойная говяжья котлета, фирменный соус, хрустящий салат", "desc_kz": "Қос сиыр котлеті, фирмалық соус, қытырлақ салат", "price": 2290, "tag": "bestseller", "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&q=80" },
+      { "id": "b2", "name_ru": "Чикен Бургер", "name_kz": "Чикен Бургер", "desc_ru": "Хрустящее куриное филе, соус медово-горчичный", "desc_kz": "Қытырлақ тауық филе, бал-горчица соусы", "price": 1990, "tag": "", "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=600&q=80" },
+      { "id": "b3", "name_ru": "Смэш Бургер", "name_kz": "Смэш Бургер", "desc_ru": "Тонкая котлета смэш, карамелизированный лук, чеддер", "desc_kz": "Жұқа смэш котлеті, карамельді пияз, чеддер", "price": 2490, "tag": "new", "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=600&q=80" },
+      { "id": "b4", "name_ru": "Даблбургер", "name_kz": "Даблбургер", "desc_ru": "Две котлеты, двойной сыр, бекон, особый соус", "desc_kz": "Екі котлет, қос ірімшік, бекон, ерекше соус", "price": 2890, "tag": "big", "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=600&q=80" }
+    ],
+    "sides": [
+      { "id": "s1", "name_ru": "Картофель фри", "name_kz": "Фри картоп", "desc_ru": "Хрустящий картофель, соль, специи", "desc_kz": "Қытырлақ картоп, тұз, дәмдеуіш", "price": 790, "tag": "", "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=600&q=80" },
+      { "id": "s2", "name_ru": "Луковые кольца", "name_kz": "Пияз сақиналары", "desc_ru": "В пивном кляре, хрустящие, с соусом", "desc_kz": "Сыра кляры, қытырлақ, соуспен", "price": 890, "tag": "", "image": "https://images.unsplash.com/photo-1639024471283-03518883512d?w=600&q=80" },
+      { "id": "s3", "name_ru": "Картофельные дольки", "name_kz": "Картоп үлестері", "desc_ru": "Запечённые дольки с паприкой и чесноком", "desc_kz": "Паприкамен және сарымсақпен пісірілген үлестер", "price": 850, "tag": "bestseller", "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=600&q=80" },
+      { "id": "s4", "name_ru": "Нагетсы x6", "name_kz": "Наггетс x6", "desc_ru": "Куриные нагетсы в хрустящей панировке", "desc_kz": "Қытырлақ крекерлі тауық наггетсі", "price": 990, "tag": "", "image": "https://images.unsplash.com/photo-1562802378-063ec186a863?w=600&q=80" }
+    ],
+    "drinks": [
+      { "id": "dr1", "name_ru": "Айран", "name_kz": "Айран", "desc_ru": "Натуральный айран, 0.5л", "desc_kz": "Табиғи айран, 0.5л", "price": 390, "tag": "", "image": "https://images.unsplash.com/photo-1563227812-0ea4c22e6cc8?w=600&q=80" },
+      { "id": "dr2", "name_ru": "Coca-Cola", "name_kz": "Coca-Cola", "desc_ru": "Классическая Coca-Cola, 0.5л", "desc_kz": "Классикалық Coca-Cola, 0.5л", "price": 490, "tag": "", "image": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=600&q=80" },
+      { "id": "dr3", "name_ru": "Свежевыжатый сок", "name_kz": "Таза шырын", "desc_ru": "Апельсин или яблоко, 0.4л", "desc_kz": "Апельсин немесе алма, 0.4л", "price": 690, "tag": "", "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=600&q=80" },
+      { "id": "dr4", "name_ru": "Milkshake", "name_kz": "Сүт коктейлі", "desc_ru": "Клубника, шоколад или ваниль, 0.4л", "desc_kz": "Құлпынай, шоколад немесе ваниль, 0.4л", "price": 890, "tag": "new", "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=600&q=80" }
+    ]
+  }
+}
